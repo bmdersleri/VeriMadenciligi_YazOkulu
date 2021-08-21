@@ -1,4 +1,17 @@
 --soap kurulumu
+
+Youtube Kanalımız: BMDersleri
+
+Bağlantı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
+
+Konu ile ilgili Youtube Video Linki : 
+
+Github Adresimiz: https://github.com/bmdersleri
+
+Hazırlayan: Hüseyin Yasal
+
+
+
 <?php
 if(extension_loaded("soap")){
 echo "soap kurulu ";
