@@ -11,7 +11,7 @@ Weka da programcı, program tarafından istenilen nitelikleri çıkartabilir ekl
 
    Bağlantı: https://www.youtube.com/bmdersleri
 
-   Konu ile ilgili Youtube Video Linki : 
+   Konu ile ilgili Youtube Video Linki : https://youtu.be/wE1e1EGL6IQ
 
    Kısa Bağlantı: https://bit.ly/32k9MnJ
 
