@@ -15,7 +15,7 @@ Youtube Kanalımız: BMDersleri
 
 Bağlantı: https://www.youtube.com/bmdersleri
 
-Konu ile ilgili Youtube Video Linki :
+Konu ile ilgili Youtube Video Linki : https://youtu.be/jrkmr8ElADM
 
 Kısa Bağlantı: https://bit.ly/32k9MnJ
 
