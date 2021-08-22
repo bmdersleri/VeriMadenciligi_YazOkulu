@@ -79,7 +79,7 @@ Tek Değişkenli Veriler: Kümelerdeki verilerin değerleri açısından  birbir
 
    Bağlantı: https://www.youtube.com/bmdersleri
 
-   Konu ile ilgili Youtube Video Linki : 
+   Konu ile ilgili Youtube Video Linki : https://youtu.be/omaNQ7rpbL4
 
    Kısa Bağlantı: https://bit.ly/32k9MnJ
 
