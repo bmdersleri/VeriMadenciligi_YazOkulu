@@ -8,6 +8,8 @@ Youtube Kanalımız: BMDersleri
 
 Bağlantı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
 
+Konu İle İlgili Video: https://www.youtube.com/watch?v=jok65sMOQ10&list=PLwhxgey9h6nCkDUXaGcVuWRNFKVHnEkDv&index=5
+
 Kısa Bağlantı: https://bit.ly/32k9MnJ
 
 Github Adresimiz: https://github.com/bmdersleri
