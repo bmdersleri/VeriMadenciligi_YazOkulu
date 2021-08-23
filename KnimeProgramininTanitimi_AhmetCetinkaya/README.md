@@ -6,7 +6,7 @@ Youtube Kanalımız: BMDersleri
 
 Bağlantı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
 
-Konu ile ilgili Youtube Video Linki : https://youtu.be/s4XGhshpv-w
+Konu ile ilgili Youtube Video Linki : https://youtu.be/S5ayqpTvEkw
 
 Kısa Bağlantı: https://bit.ly/32k9MnJ
 
