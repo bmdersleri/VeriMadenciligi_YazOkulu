@@ -1,0 +1,45 @@
+@relation 1
+
+@attribute Boy real
+@attribute Kilo real
+@attribute Yas real
+@attribute Cinsiyet { Erkek,Kadin }
+@attribute AyakNo real
+@attribute TabanSekli { Duz,Normal,Cukur }
+@attribute BasısBoz { Normal,Supination,Pronation }
+@attribute AdimUz real
+@attribute Hiz real
+@attribute Yuruyus { iyi,kotu }
+
+
+@data
+170,80,33,Erkek,42,Duz,Normal,58,80,iyi
+150,45,25,Kadin,36,Normal,Supination,40,60,iyi
+190,100,30,Erkek,46,Cukur,Pronation,70,70,kotu
+160,60,25,Kadin,38,Cukur,Pronation,39,65,iyi
+145,40,18,Kadin,33,Cukur,Normal,30,70,iyi
+175,90,42,Erkek,43,Duz,Normal,60,75,kotu
+180,70,30,Erkek,44,Cukur,Supination,54,65,iyi
+170,100,48,Erkek,42,Duz,Pronation,45,60,kotu
+180,80,32,Kadin,40,Normal,Supination,40,70,iyi
+150,55,25,Kadin,34,Cukur,Pronation,35,60,iyi
+172,83,30,Erkek,41,Duz,Supination,60,78,iyi
+153,45,28,Kadin,37,Normal,Normal,42,63,iyi
+195,103,27,Erkek,42,Duz,Pronation,72,69,kotu
+165,65,23,Kadin,40,Cukur,Normal,42,62,iyi
+150,42,20,Kadin,35,Normal,Pronation,33,72,iyi
+173,92,45,Erkek,43,Duz,Supination,60,77,kotu
+185,65,31,Erkek,42,Cukur,Supination,52,68,iyi
+173,120,52,Erkek,43,Normal,Pronation,48,59,kotu
+182,78,30,Kadin,41,Normal,Normal,41,72,iyi
+152,51,21,Kadin,32,Cukur,Pronation,38,62,iyi
+176,81,35,Erkek,40,Duz,Pronation,59,81,iyi
+151,48,28,Kadin,37,Cukur,Supination,42,62,iyi
+191,77,29,Erkek,46,Normal,Normal,70,65,kotu
+161,62,27,Kadin,38,Cukur,Pronation,39,63,iyi
+145,42,19,Kadin,34,Duz,Supination,30,71,iyi
+175,90,42,Erkek,43,Cukur,Normal,62,75,kotu
+181,72,31,Erkek,44,Duz,Pronation,54,65,iyi
+170,120,43,Erkek,42,Cukur,Normal,45,62,kotu
+180,80,32,Kadin,40,Normal,Supination,40,70,iyi
+150,55,25,Kadin,34,Duz,Normal,35,60,iyi
